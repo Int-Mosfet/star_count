@@ -11,7 +11,7 @@ and my results would be more accurate.
 These images are pretty hard to see, so apologies for that.
 
 Original image: </br>
-![orig_image](https://s9.postimg.org/uyfi7bngr/orig.jpg)
+![orig_image](https://s16.postimg.org/rhrwl5xep/orig.jpg)
 
 Image with gaussian filter and "denoised": </br>
-![gauss&denoised](https://s9.postimg.org/ssl7ctk0b/IMG_denoise_3030.jpg)
+![gauss&denoised](https://s16.postimg.org/b5huvfj35/IMG_denoise_3030.jpg)
