@@ -8,6 +8,8 @@ Notice in the original image that there was some light pollution that would affe
 Using a gaussian filter (big help) and some "denoise" setting made the image much easier to process</br>
 and my results would be more accurate.
 
+These images are pretty hard to see, so apologies for that.
+
 Original image: </br>
 ![orig_image](https://s9.postimg.org/uyfi7bngr/orig.jpg)
 
